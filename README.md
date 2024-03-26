@@ -12,7 +12,7 @@ Criação de agenda de contatos:
 
 __________________________________________________________________________________________________________________________________________________________________
 
-Nesse modulo aprendi:
+O que foi estudado neste modulo:
 
 * As ações necessárias para o segundo projeto;  
 * Estruturação de uma tabela HTML com colunas;
